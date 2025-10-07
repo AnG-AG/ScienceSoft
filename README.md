@@ -55,3 +55,39 @@ Se enfatiza la mejora continua y la comunicación transversal entre áreas media
 1. Clonar este repositorio:  
    ```bash
    git clone https://github.com/tu-usuario/nombre-del-repo.git
+2. Abrir la carpeta /documentacion/ y revisar las tres entregas (PDF).
+
+3. Consultar el Manual de Instalación en /manual/Manual_Instalacion.md.
+
+4. Revisar las evidencias de commits en /evidencias/Commits_Equipo.pdf.
+
+5. Usar las plantillas y formatos de apoyo incluidos en la entrega final.
+
+📂 Estructura de Carpetas
+/documentacion
+    ├── Entrega1_Semana3.pdf
+    ├── Entrega2_Semana5.pdf
+    ├── Entrega3_Final.pdf
+/manual
+    ├── Manual_Instalacion.md
+/evidencias
+    ├── Commits_Equipo.pdf
+
+🏁 Conclusión
+
+La implementación de un Plan de Calidad Orientado a Pruebas basado en modelos como CMMI y TMMi permite a ScienceSoft estandarizar sus procesos de QA, mejorar la trazabilidad y optimizar la cobertura de pruebas.
+El éxito de este plan depende del compromiso colectivo de la organización y del uso eficiente de las herramientas y métricas propuestas.
+
+📚 Referencias
+
+ISO/IEC 12207. (s. f.). Estandar ISO para procesos del ciclo de vida del software.
+
+ISO/IEC 25010. (s. f.). Sistema de evaluación de la calidad del software.
+
+IEEE. (2014). IEEE 829-2008. Estándar para Documentación de Pruebas de Software y Sistemas.
+
+ISO. (2013). ISO/IEC/IEEE 29119-1:2013. Pruebas de software – Conceptos y definiciones.
+
+Pressman, R. & Maxim, B. (2020). Ingeniería del Software: Un enfoque práctico (8ª ed.). McGraw-Hill.
+
+Ministry of Testing. (2023). Principios de la automatización de pruebas.
