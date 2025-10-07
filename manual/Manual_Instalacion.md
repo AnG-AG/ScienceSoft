@@ -1,7 +1,7 @@
 # ⚙️ Manual de Instalación y Uso del Repositorio
 
 ## 🧩 Propósito
-Este documento describe los pasos para acceder, revisar y utilizar correctamente los archivos del **Plan de Calidad Orientado a Pruebas - ScienceSoft**, elaborado por el **Subgrupo 10** del curso *Pruebas y Calidad de Software*.
+Este documento describe los pasos para acceder, revisar y utilizar correctamente los archivos del **Plan de Calidad Orientado a Pruebas - ScienceSoft**, elaborado por el **Subgrupo 5** del curso *Pruebas y Calidad de Software*.
 
 ---
 
@@ -47,7 +47,7 @@ Si deseas tener una copia local:
     cd TU-REPO
 4. Abre los documentos PDF desde la carpeta /documentacion/.
 
-📑 Revisión de Evidencias
+##📑 Revisión de Evidencias
 
 Las evidencias de trabajo en equipo están disponibles en:
 
@@ -55,7 +55,7 @@ Las evidencias de trabajo en equipo están disponibles en:
 
 Este archivo contiene capturas y descripciones de los aportes individuales realizados por los integrantes del grupo.
 
-🧠 Notas Finales
+##🧠 Notas Finales
 
 Todos los documentos están elaborados en conformidad con la norma APA 7.
 
@@ -63,9 +63,9 @@ La documentación del proyecto se basa en las normas ISO/IEC 25010, CMMI, TMMi, 
 
 Se recomienda revisar el README principal para entender el contexto del proyecto antes de explorar los demás archivos.
 
-👥 Autores
+##👥 Autores
 
-Subgrupo 10 - Grupo B04
+Subgrupo 5 - Grupo B04
 
 Juan Carlos Peña Castro
 
